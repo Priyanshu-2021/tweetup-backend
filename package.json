@@ -1,0 +1,22 @@
+{
+  "name": "tweetup-backend",
+  "version": "1.0.0",
+  "description": "This is a backend for tweetup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanshu-2021/tweetup-backend.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Priyanshu-2021/tweetup-backend/issues"
+  },
+  "homepage": "https://github.com/Priyanshu-2021/tweetup-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
